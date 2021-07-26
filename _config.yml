@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: lihyel
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/92.jpg
   picAlt: "catbook"
   job: 개발세발
   aboutme: true # comment this out if you don't need the 'about' page.
